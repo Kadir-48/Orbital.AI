@@ -1,0 +1,6 @@
+{
+  "name": "ORBITAL AI - Space Information Platform",
+  "description": "An advanced AI-powered aerospace intelligence platform with live launch tracking, missions, spacecraft, satellite 3D visualizer, and space science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
